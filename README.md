@@ -6,3 +6,7 @@ Eigene OAuth Authentifizierung mit Hilfe eines GitHub Accounts.
 
 2. npm install
 3. npm start
+
+
+
+Quelle: https://www.jokecamp.com/tutorial-passportjs-authentication-in-nodejs/
