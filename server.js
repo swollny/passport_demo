@@ -17,7 +17,7 @@ passport.use(new GithubStrategy({
 
 // Express and Passport Session
 var session = require('express-session');
-app.use(session({secret: "enter custom sessions secret here"}));
+app.use(session({secret: "diekuhliefumdenteich"}));
 app.use(passport.initialize());
 app.use(passport.session());
 
